@@ -1,0 +1,7 @@
+﻿  pclient.cpp
+C:\Users\Admin\Documents\GitHub\Eac-Injector-Driver\Client\pclient\pclient.cpp(210,9): warning C4129: '[': unrecognized character escape sequence
+C:\Users\Admin\Documents\GitHub\Eac-Injector-Driver\Client\pclient\pclient.cpp(524,10): warning C4473: 'printf' : not enough arguments passed for format string
+C:\Users\Admin\Documents\GitHub\Eac-Injector-Driver\Client\pclient\pclient.cpp(524,10): message : placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+C:\Users\Admin\Documents\GitHub\Eac-Injector-Driver\Client\pclient\pclient.cpp(524,10): message : the missing variadic argument 1 is required by format string '%d'
+C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1096,5): error MSB6006: "link.exe" exited with code 1181.
+LINK : fatal error LNK1181: cannot open input file 'libcurl.lib'

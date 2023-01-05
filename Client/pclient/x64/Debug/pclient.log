@@ -1,0 +1,7 @@
+﻿cl : command line  warning D9035: option 'Zc:forScope-' has been deprecated and will be removed in a future release
+  pclient.cpp
+C:\Users\Admin\Documents\GitHub\Eac-Injector-Driver\Client\pclient\pclient.cpp(210,9): warning C4129: '[': unrecognized character escape sequence
+C:\Users\Admin\Documents\GitHub\Eac-Injector-Driver\Client\pclient\pclient.cpp(524,10): warning C4473: 'printf' : not enough arguments passed for format string
+C:\Users\Admin\Documents\GitHub\Eac-Injector-Driver\Client\pclient\pclient.cpp(524,10): message : placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+C:\Users\Admin\Documents\GitHub\Eac-Injector-Driver\Client\pclient\pclient.cpp(524,10): message : the missing variadic argument 1 is required by format string '%d'
+LINK : fatal error LNK1181: cannot open input file 'C:\Users\Samuel Tulach\Desktop\pdrv\pclient\pclient\ntdll.lib'
